@@ -9,16 +9,16 @@ This project focuses on inclusive communication by enabling low-latency speech-t
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
-- [Core Features](#core-features)
-- [System Architecture](#system-architecture)
-- [Tech Stack](#tech-stack)
-- [Backend Design](#backend-design)
-- [Real-Time Communication](#real-time-communication)
-- [Frontend Architecture](#frontend-architecture)
-- [Accessibility Considerations](#accessibility-considerations)
-- [Current Scope](#current-scope)
-- [Future Enhancements](#future-enhancements)
-- [Getting Started](#getting-started)
+- [Core Features](#-core-features)
+- [System Architecture](#-system-architecture)
+- [Tech Stack](#-tech-stack)
+- [Backend Design](#-backend-design)
+- [Real-Time Communication](#-real-time-communication)
+- [Frontend Architecture](#-frontend-architecture)
+- [Accessibility Considerations](#-accessibility-considerations)
+- [Current Scope](#-current-scope)
+- [Future Enhancements](#-future-enhancements)
+- [Getting Started](#-getting-started)
 
 
 ---
