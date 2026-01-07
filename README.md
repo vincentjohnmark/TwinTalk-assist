@@ -8,7 +8,7 @@ This project focuses on inclusive communication by enabling low-latency speech-t
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Core Features](#core-features)
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
